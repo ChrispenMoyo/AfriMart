@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742281548865",
+    "project_id": "afrimart-5cbd7",
+    "storage_bucket": "afrimart-5cbd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742281548865:android:fecc56687b8b4f2e4462c0",
+        "android_client_info": {
+          "package_name": "com.chrispen.afrimart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0A7_zT1eF8M4365wIhotIk3_VUh726s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
